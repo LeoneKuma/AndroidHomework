@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyPro</string>
+    <string name="username"> your username</string>
+    <string name="password"> your password</string>
+    <string name="passwordagain"> confirm your password</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_regist">Register</string>
+    <string name="title_activity_register">Create a new account</string>
+    <string name="btn_cancel">cancel</string>
+    <string name="btn_submit">submit</string>
+    <string name="textview_welcome">welcome</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
